@@ -82,8 +82,6 @@ Applications where business rules and workflows are enforced by the system, not 
 
 ---
 
----
-
 ## Notes
 
 Most of the systems I’ve worked on are **proprietary and not publicly accessible**. Because of this, this portfolio focuses on sharing **what I do, how I work, and the kinds of systems I help build**, rather than linking to public code.
